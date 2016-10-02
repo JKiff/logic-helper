@@ -1,3 +1,5 @@
 ﻿  satisfiabilityDeterminer.cpp
-  satisfiabilityDeterminer.vcxproj -> c:\users\preki\documents\visual studio 2015\Projects\satisfiabilityDeterminer\Debug\satisfiabilityDeterminer.exe
-  satisfiabilityDeterminer.vcxproj -> c:\users\preki\documents\visual studio 2015\Projects\satisfiabilityDeterminer\Debug\satisfiabilityDeterminer.pdb (Full PDB)
+c:\users\preki\documents\visual studio 2015\projects\satisfiabilitydeterminer\satisfiabilitydeterminer\satisfiabilitydeterminer.cpp(37): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\preki\documents\visual studio 2015\projects\satisfiabilitydeterminer\satisfiabilitydeterminer\satisfiabilitydeterminer.cpp(43): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\preki\documents\visual studio 2015\projects\satisfiabilitydeterminer\satisfiabilitydeterminer\satisfiabilitydeterminer.cpp(63): error C2143: syntax error: missing ';' before '}'
+c:\users\preki\documents\visual studio 2015\projects\satisfiabilitydeterminer\satisfiabilitydeterminer\satisfiabilitydeterminer.cpp(61): warning C4551: function call missing argument list
